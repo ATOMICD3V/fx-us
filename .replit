@@ -1,0 +1,2 @@
+run="node firefox.js"
+audio = true
